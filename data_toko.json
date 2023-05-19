@@ -1,0 +1,29 @@
+{
+    "shops": [
+        {
+            "name": "Shop A",
+            "products": {
+                "Candy": 6000
+            }
+        },
+        {
+            "name": "Shop B",
+            "products": {
+                "Lollipops": 100
+            }
+        },
+        {
+            "name": "Shop C",
+            "products": {
+                "Bread": 141000
+            }
+        },
+        {
+            "name": "Shop D",
+            "products": {
+                "Kebabs": 18000,
+                "Lollipops": 4000
+            }
+        }
+    ]
+}

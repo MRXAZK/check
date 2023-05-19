@@ -1,0 +1,12 @@
+{
+    "Budi": {
+        "money": 5000,
+        "desire": "Lollipops",
+        "desired_store": "Shop B"
+    },
+    "Deni": {
+        "money": 15000,
+        "desire": "Bread",
+        "desired_store": "Shop B"
+    }
+}
